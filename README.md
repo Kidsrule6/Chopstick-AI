@@ -1,0 +1,1 @@
+Hello this is a Chopstick AI! If you ever decide to look into the code, you'll find that this is not an AI but a preprogrammed bot. But also while you're looking through it, you'll see 1500 something lines. Yeah none of that is copy pasted. It's all unique and different. As such, this took abt 10-13hrs to make. Please enjoy!
