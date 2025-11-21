@@ -13,10 +13,6 @@ history=[0, 0, 0, 0]
 history_for_p_hand2=0
 undo_charges=3
 
-
-#C:\Users\1040402\OneDrive - Lake Washington School District\Desktop\Python Saves P4 2024-2025\Chopsticks AI.py
-
-
 #SUUS
 
 #HOW TO WIN: Get the player to have a 2/0, and the AI to have a 2/1. Then hit their 2 with your 2, they hit your 2 with a 1, then finally hit their 1 with your 3.
@@ -1616,3 +1612,4 @@ while True:
         else:
             nothing1=1
             print("Welcome to my Chopsticks AI!! This is a pre-programmed AI that's meant to never lose. But that might not be true! Try and see if you can beat it!!")
+
