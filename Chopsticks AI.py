@@ -14,7 +14,7 @@ history_for_p_hand2=0
 undo_charges=3
 
 
-#C:\Users\1040402\OneDrive - Lake Washington School District\Desktop\Python Saves P4 2024-2025\Chopsticks AI.py
+
 
 
 #SUUS
@@ -1616,3 +1616,4 @@ while True:
         else:
             nothing1=1
             print("Welcome to my Chopsticks AI!! This is a pre-programmed AI that's meant to never lose. But that might not be true! Try and see if you can beat it!!")
+
